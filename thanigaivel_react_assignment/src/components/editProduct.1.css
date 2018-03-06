@@ -1,0 +1,7 @@
+label { display: inline-block; width: 210px; text-align: right; margin-bottom:20px;}
+.saveButton{
+    color: white;
+   cursor: pointer;
+    background-color:rgb(19, 160, 241);
+    border-color:  black; 
+   }

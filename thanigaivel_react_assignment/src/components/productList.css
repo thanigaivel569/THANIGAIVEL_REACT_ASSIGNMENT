@@ -1,0 +1,35 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+  
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+.display{
+  
+    color: white;
+    padding: 11px 22px;
+    margin: 10px 0;
+    cursor: pointer;
+    background-color:rgb(19, 160, 241);
+    border-color:  black; 
+    width:3% ;
+    }
+.deleteButton{
+background-color:red;
+color:white;
+    }
+.addProductButton{
+padding-bottom: 5px;
+margin-bottom: 15px;
+border-color: black
+    }
