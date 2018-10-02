@@ -1,0 +1,16 @@
+button{
+margin-left: 30%;
+margin-right: 30%;
+margin-bottom: 20px;
+}
+.column {
+float: left;
+width: 25%;
+padding: 30px;
+height: 400px; 
+   
+}
+.row{
+  display: contents;
+  clear: both;
+}
